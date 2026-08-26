@@ -20,11 +20,11 @@
 
 ## 🧬 `ABOUT_ME`
 
-##javascript
+javascript
 const developer = {
     name: "Habib Muhammad Rizal",
 
-    #role: [
+    role: [
         "Web Developer",
         "UI/UX Designer",
         "Data Analyst",
@@ -68,7 +68,7 @@ Landing Pages
 Dashboard Design
 Branding
 Prototyping
-</td> </tr> <tr> <td width="50%">
+</td> </tr> <tr> <td width="50% margin="10%">
 📊 DATA ANALYSIS
 
 Turning raw data into useful insights.
