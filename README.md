@@ -39,6 +39,9 @@ I’m a developer and designer who enjoys turning ideas into
 
 <br>
 
+
+
+
 **⚡ Learn → Build → Analyze → Improve**
 
 </div>
