@@ -43,3 +43,54 @@ const developer = {
 
     goal: "Creating useful, creative & meaningful digital experiences"
 };
+<table> <tr> <td width="50%">
+💻 WEB DEVELOPMENT
+
+Building responsive and functional websites.
+
+Fullstack Development
+Frontend Development
+Backend Development
+REST API
+CRUD Systems
+Authentication
+Database Integration
+Responsive Design
+</td> <td width="50%">
+🎨 DESIGN
+
+Creating modern interfaces and visual experiences.
+
+UI/UX Design
+Web Design
+Graphic Design
+Landing Pages
+Dashboard Design
+Branding
+Prototyping
+</td> </tr> <tr> <td width="50%">
+📊 DATA ANALYSIS
+
+Turning raw data into useful insights.
+
+Python
+Pandas
+NumPy
+Data Cleaning
+Data Visualization
+SQL
+Exploratory Data Analysis
+Machine Learning
+</td> <td width="50%">
+🎮 GAME DEVELOPMENT
+
+Experimenting with interactive experiences.
+
+Game Logic
+Browser Games
+JavaScript Games
+Game UI
+Interactive Web
+Game Mechanics
+Experimental Projects
+</td> </tr> </table>
