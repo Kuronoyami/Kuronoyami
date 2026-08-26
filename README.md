@@ -14,83 +14,31 @@
 
 </div>
 
----
+## 🧬 About Me
 
-<!-- ======================= ABOUT ======================= -->
+<div align="center">
 
-## 🧬 `ABOUT_ME`
+### 👋 Hi, I'm **Habib Muhammad Rizal**
 
-javascript
-const developer = {
-    name: "Habib Muhammad Rizal",
+**Web Developer • UI/UX Designer • Data Analyst • Game Developer**
 
-    role: [
-        "Web Developer",
-        "UI/UX Designer",
-        "Data Analyst",
-        "Game Developer"
-    ],
+<br>
 
-    passion: [
-        "Website Development",
-        "Creative Design",
-        "Data Analysis",
-        "Game Development",
-        "Technology"
-    ],
+I’m a developer and designer who enjoys turning ideas into  
+**functional websites, creative interfaces, useful data insights, and interactive experiences.**
 
-    mindset: "Learn → Build → Analyze → Improve",
+<br><br>
 
-    goal: "Creating useful, creative & meaningful digital experiences"
-};
-<table> <tr> <td width="50%">
-💻 WEB DEVELOPMENT
+| 💻 Web Development | 🎨 UI/UX Design |
+|:---:|:---:|
+| Building modern & responsive websites | Creating clean & intuitive interfaces |
 
-Building responsive and functional websites.
+| 📊 Data Analysis | 🎮 Game Development |
+|:---:|:---:|
+| Turning data into meaningful insights | Creating interactive digital experiences |
 
-Fullstack Development
-Frontend Development
-Backend Development
-REST API
-CRUD Systems
-Authentication
-Database Integration
-Responsive Design
-</td> <td width="50%">
-🎨 DESIGN
+<br>
 
-Creating modern interfaces and visual experiences.
+**⚡ Learn → Build → Analyze → Improve**
 
-UI/UX Design
-Web Design
-Graphic Design
-Landing Pages
-Dashboard Design
-Branding
-Prototyping
-</td> </tr> <tr> <td width="50% margin="10%">
-📊 DATA ANALYSIS
-
-Turning raw data into useful insights.
-
-Python
-Pandas
-NumPy
-Data Cleaning
-Data Visualization
-SQL
-Exploratory Data Analysis
-Machine Learning
-</td> <td width="50%">
-🎮 GAME DEVELOPMENT
-
-Experimenting with interactive experiences.
-
-Game Logic
-Browser Games
-JavaScript Games
-Game UI
-Interactive Web
-Game Mechanics
-Experimental Projects
-</td> </tr> </table>
+</div>
