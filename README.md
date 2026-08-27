@@ -57,7 +57,7 @@ I’m a developer and designer who enjoys turning ideas into
 
 <td width="50%" align="center">
 
-### 🌐 Portfolio Website
+ 🌐 Portfolio Website
 
 <img src="portofolio.png" width="500">
 
@@ -69,13 +69,17 @@ Responsive & Modern UI
 
 <br>
 
+<a href="https://kuronoyami.github.io/Habib-Muhammad-Rizal/">
+<img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-00FFFF?style=for-the-badge&labelColor=0D1117">
+</a>
+
 </td>
 
 <!-- ================= PROJECT 2 ================= -->
 
 <td width="50%" align="center">
 
-### 🎮 Cyberpunk Pixel RPG
+ 🎮 Cyberpunk Pixel RPG
 
 <img src="cbr.png" width="500">
 
@@ -87,6 +91,9 @@ Interactive Pixel Game
 
 <br>
 
+<a href="https://github.com/Kuronoyami/Cyberpunk_pixel_RPG_PROJECT/">
+<img src="https://img.shields.io/badge/🌐%20GITHUB-00FFFF?style=for-the-badge&labelColor=0D1117">
+</a>
 
 </td>
 
@@ -98,7 +105,7 @@ Interactive Pixel Game
 
 <td width="50%" align="center">
 
-### 🖥️ Web Development Project
+🖥️ Web Development Project
 
 <img src="project-web.png" width="500">
 
@@ -110,11 +117,15 @@ Responsive & Interactive
 
 <br>
 
+<a href="#">
+<img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-00FFFF?style=for-the-badge&labelColor=0D1117">
+</a>
+
 </td>
 
 <td width="50%" align="center">
 
-### 📊 Data Analysis Project
+📊 Data Analysis Project
 
 <img src="data-analysis.png" width="500">
 
@@ -126,6 +137,10 @@ Data-driven Insights
 
 <br>
 
+<a href="#">
+<img src="https://img.shields.io/badge/🌐%20VIEW%20PROJECT-00FFFF?style=for-the-badge&labelColor=0D1117">
+</a>
+
 </td>
 
 </tr>
@@ -133,4 +148,3 @@ Data-driven Insights
 </table>
 
 </div>
-
