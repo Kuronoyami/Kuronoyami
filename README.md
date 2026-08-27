@@ -44,5 +44,5 @@ I’m a developer and designer who enjoys turning ideas into
 
 </div>
 
-![Portfolio](portfolio.jpg)
+![Portfolio](portfolio.png)
 [🌐 Live Demo]([https://username.github.io/portfolio/](https://kuronoyami.github.io/Habib-Muhammad-Rizal/))
