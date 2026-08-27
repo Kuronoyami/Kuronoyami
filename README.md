@@ -50,7 +50,7 @@ I’m a developer and designer who enjoys turning ideas into
 
 <table> <tr>
 
-<td width="33%" align="center">
+<td width="25%" align="center">
 
 🌐 Portfolio Website
 
@@ -66,7 +66,7 @@ Responsive & Modern UI
 
 <table> <tr>
 
-<td width="33%" align="center">
+<td width="25%" align="center">
 
 🌐 Portfolio Website
 
@@ -76,6 +76,6 @@ Personal portfolio website
 HTML • CSS • JavaScript
 Responsive & Modern UI
 
-<a href="https://kuronoyami.github.io/Habib-Muhammad-Rizal/"> <img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-00FFFF?style=for-the-badge&labelColor=0D1117"> </a>
+<a href="https://github.com/Kuronoyami/Cyberpunk_pixel_RPG_PROJECT"> <img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-00FFFF?style=for-the-badge&labelColor=0D1117"> </a>
 
 </td>
