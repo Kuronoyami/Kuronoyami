@@ -68,9 +68,9 @@ Responsive & Modern UI
 
 <td width="25%" align="center">
 
-🌐 Portfolio Website
+🌐 Portfolio Website Game Pixel
 
-<img src="portofolio.png" width="500">
+<img src="cbr punk website game project.png" width="500">
 
 Personal portfolio website
 HTML • CSS • JavaScript
