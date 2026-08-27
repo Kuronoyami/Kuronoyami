@@ -70,7 +70,6 @@ Responsive & Modern UI
 
 🌐 Portfolio Website Game Pixel
 
-<a href="https://kuronoyami.github.io/Cyberpunk_pixel_RPG_PROJECT/"> <img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-00FFFF?style=for-the-badge&labelColor=0D1117"> </a>
 
 <img src="cbr punk website game project.png" width="500">
 
@@ -78,6 +77,6 @@ Personal portfolio website
 HTML • CSS • JavaScript
 Responsive & Modern UI
 
-<a href="https://github.com/Kuronoyami/Cyberpunk_pixel_RPG_PROJECT"> <img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-00FFFF?style=for-the-badge&labelColor=0D1117"> </a>
+<a href="https://github.com/Kuronoyami/Cyberpunk_pixel_RPG_PROJECT/"> <img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-00FFFF?style=for-the-badge&labelColor=0D1117"> </a>
 
 </td>
