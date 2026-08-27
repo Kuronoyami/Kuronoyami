@@ -44,5 +44,22 @@ I’m a developer and designer who enjoys turning ideas into
 
 </div>
 
-![Portfolio](portfolio.png)
-[🌐 Live Demo]([https://username.github.io/portfolio/](https://kuronoyami.github.io/Habib-Muhammad-Rizal/))
+🚀 PORTFOLIO
+
+<div align="center">
+
+<table> <tr>
+
+<td width="33%" align="center">
+
+🌐 Portfolio Website
+
+<img src="portofolio.png" width="500">
+
+Personal portfolio website
+HTML • CSS • JavaScript
+Responsive & Modern UI
+
+<a href="https://kuronoyami.github.io/Habib-Muhammad-Rizal/"> <img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-00FFFF?style=for-the-badge&labelColor=0D1117"> </a>
+
+</td>
