@@ -46,37 +46,91 @@ I’m a developer and designer who enjoys turning ideas into
 
 🚀 PORTFOLIO
 
+## 🚀 PORTFOLIO
+
 <div align="center">
 
-<table> <tr>
+<table>
+<tr>
 
-<td width="25%" align="center">
+<!-- ================= PROJECT 1 ================= -->
 
-🌐 Portfolio Website
+<td width="50%" align="center">
+
+### 🌐 Portfolio Website
 
 <img src="portofolio.png" width="500">
 
-Personal portfolio website
-HTML • CSS • JavaScript
+**Personal portfolio website**
+
+`HTML` • `CSS` • `JavaScript`
+
 Responsive & Modern UI
 
-<a href="https://kuronoyami.github.io/Habib-Muhammad-Rizal/"> <img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-00FFFF?style=for-the-badge&labelColor=0D1117"> </a>
+<br>
 
 </td>
 
-<table> <tr>
+<!-- ================= PROJECT 2 ================= -->
 
-<td width="25%" align="center">
+<td width="50%" align="center">
 
-🌐 Portfolio Website Game Pixel
-
+### 🎮 Cyberpunk Pixel RPG
 
 <img src="cbr.png" width="500">
 
-Personal portfolio website
-HTML • CSS • JavaScript
-Responsive & Modern UI
+**Pixel RPG / Web Game**
 
-<a href="https://github.com/Kuronoyami/Cyberpunk_pixel_RPG_PROJECT/"> <img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-00FFFF?style=for-the-badge&labelColor=0D1117"> </a>
+`HTML` • `CSS` • `JavaScript` • `Canvas`
+
+Interactive Pixel Game
+
+<br>
+
 
 </td>
+
+</tr>
+
+<!-- ================= BARIS 2 ================= -->
+
+<tr>
+
+<td width="50%" align="center">
+
+### 🖥️ Web Development Project
+
+<img src="project-web.png" width="500">
+
+**Modern Web Application**
+
+`HTML` • `CSS` • `JavaScript`
+
+Responsive & Interactive
+
+<br>
+
+</td>
+
+<td width="50%" align="center">
+
+### 📊 Data Analysis Project
+
+<img src="data-analysis.png" width="500">
+
+**Data Analysis & Visualization**
+
+`Python` • `Pandas` • `Matplotlib`
+
+Data-driven Insights
+
+<br>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
